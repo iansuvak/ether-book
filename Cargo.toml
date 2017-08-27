@@ -1,0 +1,8 @@
+[package]
+name = "ether_book"
+version = "0.1.0"
+authors = ["Doichin Denchev <doichin.denchev@gmail.com>",
+           "Ian Suvak <ian.suvak@gmail.com>"]
+
+[dependencies]
+websocket = "0.20.2"
